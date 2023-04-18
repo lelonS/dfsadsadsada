@@ -1,4 +1,11 @@
-remote-theme: jekyll/minima
 
+title: API Documentation
+author: 
+  name: Leon S
+  github: lelonS
+
+description: Documentation for the API
+
+remote_theme: jekyll/minima
 minima:
   skin: dark
