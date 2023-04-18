@@ -1,3 +1,8 @@
+---
+layout: page
+title: Reponses
+permalink: /responses/
+---
 
 ## Response Structure
 
