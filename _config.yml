@@ -6,6 +6,10 @@ author:
 
 description: Documentation for the API
 
+header_pages:
+  - requests.md
+  - responses.md
+
 remote_theme: jekyll/minima
 minima:
   skin: dark
