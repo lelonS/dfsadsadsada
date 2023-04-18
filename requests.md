@@ -1,3 +1,9 @@
+---
+layout: page
+title: Requests
+permalink: /requests/
+---
+
 ## Request Parameters
 
 *For each endpoint, list all required and optional parameters, their data types, and a brief description of their purpose. Include any constraints or validation rules for the parameters.*
