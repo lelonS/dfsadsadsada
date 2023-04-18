@@ -1,3 +1,8 @@
+---
+layout: page
+title: Errors
+permalink: /errors/
+---
 
 ## Error Handling
 
