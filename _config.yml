@@ -9,6 +9,7 @@ description: Documentation for the API
 header_pages:
   - requests.md
   - responses.md
+  - errors.md
 
 remote_theme: jekyll/minima
 minima:
